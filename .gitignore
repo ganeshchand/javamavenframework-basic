@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+.classpath
+.project
+.settings/
+target/
+.idea/workspace.xml
+.idea/tasks.xml
+projectFilesBackup/ 
+=======
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+>>>>>>> 9395958376766e201543b00c462872cec8c103c2
